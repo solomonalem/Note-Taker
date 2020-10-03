@@ -4,11 +4,24 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solomonmeresa/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/solomonmeresa/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/solomonmeresa/Note-Taker#readme"
 }
