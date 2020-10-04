@@ -1,1 +1,14 @@
-[{ "title": "Test Title", "text": "Test text", "id": "test_id" }]
+{
+  "notes": [
+    {
+      "title": "oop",
+      "text": "w\n",
+      "id": "jy0dfdkkfukdkvf"
+    },
+    {
+      "title": "java",
+      "text": "n",
+      "id": "jy0dfickfukdr0h"
+    }
+  ]
+}
