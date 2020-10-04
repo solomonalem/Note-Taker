@@ -8,7 +8,6 @@ Its a node application that uses express.js framework.It helps individuals to st
 
 ## Table of Contents
 
-
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -34,6 +33,12 @@ Frontend developer team
 
 Fork it to your github repos ,then you can make any changes with out affecting the main source code
 
+## Test
+
+```javascript
+👉 npm run test
+```
+
 [My Github Profile](https://github.com/solomonmeresa)
 
 ## How to reach me
@@ -41,7 +46,6 @@ Fork it to your github repos ,then you can make any changes with out affecting t
 Email : solomonmeresa8@gmail.com
 
 ## visuals
-
 
 <img src="./public/assets/img/screenshot-1.png" alt="large-screen">
 
